@@ -1,0 +1,37 @@
+@startuml "Person"
+!define DARKBLUE
+!includeurl https://raw.githubusercontent.com/Drakemor/RedDress-PlantUML/master/style.puml
+class Person {
+    firstName
+    lastName
+    dateOfBirth
+    +SaveDetail()
+}
+
+class Employee {
+    jobTitle
+    startDate
+    salary
+    -pay()
+}
+class Manager {
+    department
+    office
+    +reviewStuff()
+}
+class Developer {
+    skills
+    langauge
+    +rolle()
+}
+class Costumer {
+    order
+    orderDate
+    -creditLimit()
+}
+Person <|-- Employee
+Person <|-- Manager
+Person <|-- Developer
+Person <|-- Costumer
+
+@enduml

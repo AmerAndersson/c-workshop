@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/ander/myapp/app/build",
+  "command": "/usr/share/swift/usr/bin/clang++   -Wall -Wextra -Werror -std=gnu++20 -o CMakeFiles/tools.dir/tools.cpp.o -c /home/ander/myapp/app/tools.cpp",
+  "file": "/home/ander/myapp/app/tools.cpp"
+},
+{
+  "directory": "/home/ander/myapp/app/build",
+  "command": "/usr/share/swift/usr/bin/clang++   -Wall -Wextra -Werror -std=gnu++20 -o CMakeFiles/main.dir/main.cpp.o -c /home/ander/myapp/app/main.cpp",
+  "file": "/home/ander/myapp/app/main.cpp"
+}
+]

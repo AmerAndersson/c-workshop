@@ -1,0 +1,4 @@
+/home/ander/myapp/app/build/CMakeFiles/tools.dir
+/home/ander/myapp/app/build/CMakeFiles/main.dir
+/home/ander/myapp/app/build/CMakeFiles/edit_cache.dir
+/home/ander/myapp/app/build/CMakeFiles/rebuild_cache.dir

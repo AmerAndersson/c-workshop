@@ -1,0 +1,1 @@
+/usr/share/swift/usr/bin/clang++ -Wall -Wextra -Werror CMakeFiles/main.dir/main.cpp.o -o main  libtools.a 
