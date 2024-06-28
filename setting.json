@@ -1,0 +1,66 @@
+{
+  "workbench.startupEditor": "none",
+  "editor.formatOnSave": true,
+  "editor.wordWrap": "on",
+  "files.autoSave": "afterDelay",
+  "notebook.formatOnSave.enabled": true,
+  "workbench.iconTheme": "vscode-icons",
+  "window.zoomPerWindow": false,
+  "terminal.integrated.cursorStyle": "line",
+  "editor.formatOnPaste": true,
+  "files.autoSaveWhenNoErrors": true,
+  "editor.fontSize": 12,
+  "editor.lineHeight": 19,
+  "editor.fontLigatures": true,
+  "C_Cpp.default.cppStandard": "c++20",
+  "editor.minimap.enabled": false,
+  "editor.cursorBlinking": "solid",
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.autoClosingQuotes": "languageDefined",
+  "editor.autoIndent": "full",
+  "editor.bracketPairColorization.enabled": true,
+  "editor.cursorStyle": "line",
+  "editor.letterSpacing": 0.2,
+  "editor.multiCursorModifier": "ctrlCmd",
+  "editor.suggestSelection": "first",
+  "editor.tabCompletion": "on",
+  "editor.detectIndentation": false,
+  "editor.insertSpaces": true,
+  "editor.tabSize": 2,
+  "files.encoding": "utf8",
+  "files.autoSaveDelay": 1000,
+  "search.showLineNumbers": true,
+  "zenMode.centerLayout": false,
+  "editor.fontFamily": "JetBrains Mono",
+  "C_Cpp.clang_format_fallbackStyle": "{ BasedOnStyle: Google, IndentWidth: 2, ColumnLimit: 0}",
+  "terminal.integrated.fontFamily": "JetBrains Mono",
+  "terminal.integrated.fontSize": 12,
+  "terminal.integrated.shellIntegration.enabled": true,
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "terminal.integrated.defaultProfile.linux": "zsh",
+  "[markdown]": {
+    "editor.formatOnSave": true,
+    "editor.renderWhitespace": "all",
+    "editor.acceptSuggestionOnEnter": "off",
+    "editor.formatOnPaste": true
+  },
+  "editor.tokenColorCustomizations": {
+    "[One Dark Pro]": {
+      "textMateRules": [
+        {
+          "scope": ["source.python"],
+          "settings": {
+            "foreground": "#e06c75"
+          }
+        }
+      ]
+    }
+  },
+  "breadcrumbs.enabled": false,
+  "workbench.preferredDarkColorTheme": "One Dark Pro Darker",
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.autopep8",
+    "editor.formatOnSave": true
+  },
+  "workbench.colorTheme": "Sublime Monokai"
+}
